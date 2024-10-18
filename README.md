@@ -1,3 +1,3 @@
 # Software Engineering
 
-First conflict
+Conflict resolved
